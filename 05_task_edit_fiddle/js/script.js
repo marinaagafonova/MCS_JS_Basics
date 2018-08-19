@@ -19,5 +19,3 @@ image.setAttribute('src', pic);
 const quest = prompt('Введите текст страницы');
 const bio = document.querySelector('p');
 bio.innerHTML = quest;
-// const shortBio = document.querySelector('.shortBio');
-// ball.className += ' animated';
