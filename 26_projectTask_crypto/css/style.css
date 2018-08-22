@@ -1,0 +1,36 @@
+@import url(reset.css);
+
+body 
+{
+	background-color: white;
+}
+
+div
+{
+	height: 15px;
+	padding: 8px;
+}
+
+h1
+{
+	font-size: 30pt;
+	padding: 8px;
+}
+
+h2
+{
+	font-size: 15pt;
+	padding: 8px;
+}
+
+.bitcoin {
+	background-color: red;
+}
+
+.ethereum {
+	background-color: lightblue;
+}
+
+.litecoin {
+	background-color: mediumaquamarine;
+}
